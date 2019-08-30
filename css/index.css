@@ -667,6 +667,7 @@ body .button-secondary svg path {
   position: relative;
   height: 104.8rem;
   background: #f2f3ff;
+  font: "Source Sans Pro";
 }
 .reviews .purple-blobber {
   margin-bottom: -1000px;
@@ -696,6 +697,7 @@ body .button-secondary svg path {
   font-family: "Source SansPro";
   font-weight: bold;
   text-align: left;
+  font-family: "Source Sans Pro";
 }
 @media (max-width: 375px) {
   .reviews .user-reviews h2 {
@@ -706,6 +708,7 @@ body .button-secondary svg path {
   font-family: "Source SansPro";
   text-align: right;
   font-size: 1.8rem;
+  font-family: "Source Sans Pro";
 }
 @media (max-width: 375px) {
   .reviews .user-reviews p {
@@ -721,6 +724,7 @@ body .button-secondary svg path {
   position: absolute;
   top: 23.2rem;
   right: 25.2rem;
+  font-family: "Source Sans Pro";
 }
 @media (max-width: 1366px) {
   .reviews .user-reviews .user-reviews-h {
@@ -747,6 +751,7 @@ body .button-secondary svg path {
   position: absolute;
   top: 30.1rem;
   right: 25.2rem;
+  font-family: "Source Sans Pro";
 }
 @media (max-width: 1366px) {
   .reviews .user-reviews .user-reviews-p {
